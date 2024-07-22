@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lazyclick.me/reviews/queen-of-tears/</loc>
+    <loc>http://lazyclick.me/about/index.html</loc>
     
-    <lastmod>2024-07-04</lastmod>
+    <lastmod>2024-07-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lazyclick.me/about/index.html</loc>
+    <loc>http://lazyclick.me/reviews/queen-of-tears/</loc>
     
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
 
   <url>
     <loc>http://lazyclick.me/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,28 +120,28 @@
   
   <url>
     <loc>http://lazyclick.me/tags/koreandrama/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lazyclick.me/tags/netflix/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lazyclick.me/tags/soapopera/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lazyclick.me/tags/cartoon/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -150,7 +150,7 @@
   
   <url>
     <loc>http://lazyclick.me/categories/reviews/</loc>
-    <lastmod>2024-07-17</lastmod>
+    <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
